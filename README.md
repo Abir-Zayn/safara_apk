@@ -9,4 +9,5 @@ Live App: https://drive.google.com/file/d/19ocVWK7Ej0F8qmxrQEu0C_OudI8sHGMC/view
 -------------------------------
 App Mockup Images:
 --------------------------
-![image](https://github.com/user-attachments/assets/0e6ee51e-06d4-40aa-9d9f-0b3214e64bfe)
+![Gray Minimalist Phone Mockup Facebook Cover](https://github.com/user-attachments/assets/04836f63-c967-4668-8c6f-a3b842a3d49e)
+
